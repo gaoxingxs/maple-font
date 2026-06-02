@@ -45,11 +45,9 @@ V7 是一个完全重制版本，提供了可变字体格式和字体工程源�
 
 CN 版本基于[资源圆体](https://github.com/CyanoHao/Resource-Han-Rounded)提供了完整的中文开发环境的字符集支持，包括简体中文、繁体中文和日文。同时，中英文 2:1 完美对齐的特性，使得本字体在多语言显示、Markdown 表格等场景可以做到整齐划一、美观舒适。但是中文的间距相比其他流行的中文字体更大，详情请参阅[发行版说明](https://github.com/subframe7536/maple-font/releases/tag/cn-base)和[这个议题](https://github.com/subframe7536/maple-font/issues/211)。
 
+- CN 版本暂时不支持可变字体格式
+
 ![2-1.png](./resources/2-1.png)
-
-### Sans-serif 版本（实验性）
-
-安装所有依赖和 `fontforge` 后可以运行 `python task.py merge` 将两个字体合并为一个，我个人使用的 [Maple Sans](https://github.com/subframe7536/maple-font/releases/tag/cn-base)（SF Pro Rounded + 汉仪正圆）就是通过这个脚本生成的
 
 ## 屏幕截图
 
